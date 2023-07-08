@@ -1,0 +1,231 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&display=swap');
+
+* {
+  margin: 0px ;
+  padding: 0px;
+}
+
+html {
+  scroll-behavior: smooth;
+  transition: 0.5;
+}
+
+header {
+  display: table;
+  width: 100%;
+  height: 400px;
+  background-color: #3a205c;
+  background-image: url(../img/8103465.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.container-fluid {
+  display: table;
+  width: 100%;
+  height: 100%;
+  background-color: #3a205c;
+}
+
+.contenido{
+  display: table;
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/91657.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+
+footer {
+  display: table;
+  width: 100%;
+  height: 85px;
+  background-color:  #711d86;
+  color: white;
+  font-weight: 200;
+  text-align: center;
+  padding-top: 1%;
+}
+
+.cuerpo {
+  display: table;
+  width: 100%;
+}
+
+.col-4{
+  width: 400px;
+}
+
+.bd-example{
+  height: 500px !important;
+  margin-left: 4% !important;
+  margin-right: 4% !important;
+}
+
+.scrollspy-example{
+  height: 400px !important;
+}
+
+/* titulos y texto*/
+
+.intro{
+  display: block;
+  margin-left: 40%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 100px;
+  font-weight: 800 !important;
+  font-family: "Kanit";
+  color: antiquewhite;
+}
+
+p {
+  display: table;
+  width: 90%;
+  padding-left: 5%;
+  text-align: justify;
+  margin-bottom: 3%;
+  margin-top: 3%;
+  font-size: 20px;
+  font-family: "Barlow";
+  font-weight: 400;
+  color: antiquewhite;
+}
+
+.contenido h4{
+  color: antiquewhite;
+  font-family: "Kanit";
+}
+
+hr {
+  border: 3px solid #c5b3d1;
+  text-align: center;
+  border: radius 80%;
+  margin: 5%;
+}
+
+.lista{
+  width: 50px !important;
+  color: aliceblue !important;
+  display: table !important;
+}
+
+.intro2{
+  display: block;
+  margin-left: 22%;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  font-size: 100px;
+  font-weight: 800 !important;
+  font-family: "Kanit";
+  color: antiquewhite;
+}
+
+/*CARRUSEL*/
+
+.carousel-inner{
+  padding-left: 20%;
+  padding-right: 10%;
+  margin-bottom: 50px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  filter: invert(108%);
+}
+
+.carrusel1{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel2{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel3{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel4{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel5{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel6{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel7{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel8{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel9{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel10{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel11{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel12{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel13{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel14{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel15{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
+
+.carrusel16{
+  width: 620px;
+  height: 428px;
+  margin-left: 9%;
+}
